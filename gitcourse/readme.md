@@ -59,6 +59,18 @@ git commit -m "sda"
 ```
 ## branches
 
+create a new branch
+```sh
+git branch "nombre"
+```
+ir a la rama nueva
+
+```sh
+git checkout dev
+```
+
+
+
 ## remotes
 
 
