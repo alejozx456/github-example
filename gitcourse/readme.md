@@ -68,6 +68,12 @@ ir a la rama nueva
 ```sh
 git checkout dev
 ```
+push
+
+
+```sh
+git push -u origin dev
+```
 
 
 
